@@ -1,0 +1,66 @@
+.icon-btn {
+	float: none;
+	font-size: 20px;
+	line-height: 35px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.icon-btn:hover {
+	transform: scale(1.10);
+	color: #FFFFFF;
+}
+
+button {
+	border-style: none;
+	width: 35px;
+	height: 35px;
+	background-color: #FFFFFF;
+	cursor: pointer;
+	border-radius: 50%;
+
+}
+
+.twitter {
+	color: #4099FF;
+}
+
+.google {
+	color: #DB5A3C;
+}
+
+.facebook {
+	color: #3B5998;
+}
+
+.instagram {
+	color: #5C3D2E;
+}
+
+.git-hub {
+	color: #4183C4;
+}
+
+.twitter:hover {
+	background-color: #4099FF;
+}
+
+.google:hover {
+	background-color: #DB5A3C;
+}
+
+.facebook:hover {
+	background-color: #3B5998;
+}
+
+.instagram:hover {
+	background-color: #5C3D2E;
+}
+
+.git-hub:hover {
+	background-color: #4183C4;
+}
+
+.social {
+	position: relative;
+	left: 15px;
+}
